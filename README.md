@@ -1,5 +1,6 @@
 # Install
 
+```
 507 mkdir angular-test
 508 cd angular-test/
 509 ng new
@@ -12,6 +13,7 @@
 516 npm i -D @angular-builders/dev-server
 517 npm i -D @angular-devkit/build-angular
 519 npm i -D dotenv
+```
 
 # Description
 
